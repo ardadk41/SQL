@@ -1,0 +1,17 @@
+--create table KitapStok (
+--	KitapID int,
+--	StokAdedi int,
+--	Sehir varchar(50),
+--	constraint FK_KitapStok_Kitaplar foreign key (KitapID) references Kitaplar(KitapId),
+--);
+--insert into KitapStok (KitapID, StokAdedi, Sehir) values
+--(1, 10, 'Istanbul'),
+--(2, 5, 'Ankara'),
+--(3, 8, 'Izmir'),
+--(4, 12, 'Bursa'),
+--(5, 20, 'Antalya'),
+--(6, 7, 'Adana'),
+--(7, 15, 'Gaziantep'),
+--(8, 9, 'Konya'),
+--(9, 11, 'Kayseri');
+--select * from KitapStok 
